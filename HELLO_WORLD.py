@@ -1,4 +1,4 @@
-
+#szevasz te f......
 #print('Hello_WORLD')
 
 #print("Eredmény:" , 2*3)
