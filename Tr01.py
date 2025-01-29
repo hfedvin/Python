@@ -1,4 +1,4 @@
-#valami = 12  
+#___xxxmit csináljak____valami = 12  
 var1 = "12" #string
 
 #valami = int(input("Írj be egy számot.")) 
